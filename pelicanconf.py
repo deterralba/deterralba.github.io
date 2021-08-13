@@ -3,10 +3,10 @@
 
 AUTHOR = 'deterralba'
 SITENAME = 'Deterralba'
-SITEURL = ''
+SITEURL = 'https://deterralba.github.io'
 
 THEME='/home/deterralba/Documents/blog/pelican-svbhack'
-SITEURL + '/static/images/head.jpeg'
+USER_LOGO_URL=SITEURL + '/images/head.jpeg'
 ROUND_USER_LOGO=True
 
 PATH = 'content'
