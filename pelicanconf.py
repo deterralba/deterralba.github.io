@@ -6,6 +6,8 @@ SITENAME = 'Deterralba'
 SITEURL = ''
 
 THEME='/home/deterralba/Documents/blog/pelican-svbhack'
+SITEURL + '/static/images/head.jpeg'
+ROUND_USER_LOGO=True
 
 PATH = 'content'
 
