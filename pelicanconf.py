@@ -37,5 +37,8 @@ SOCIAL =  ()
 
 DEFAULT_PAGINATION = False
 
+# we need to add Status: published to post to make them visible
+DEFAULT_METADATA = { 'status': 'draft' }
+
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
