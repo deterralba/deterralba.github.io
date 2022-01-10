@@ -8,6 +8,8 @@ pipenv install "pelican[markdown]"
 pelican content
 ```
 
+add Status: published in file when ready for publication.
+
 local preview:
 
 ```
