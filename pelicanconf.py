@@ -10,6 +10,7 @@ USER_LOGO_URL=SITEURL + '/images/head.jpeg'
 ROUND_USER_LOGO=True
 
 PATH = 'content'
+OUTPUT_PATH = 'docs/'
 
 TIMEZONE = 'Europe/Paris'
 
