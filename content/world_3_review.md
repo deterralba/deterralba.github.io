@@ -24,7 +24,7 @@ Après m'être renseigné et avoir discuté de World 3, je n'ai pas acquis de no
 
 	Ce qui est choquant dans les résultats de world 3, c'est qu'à la vue de notre situation actuelle, il semble peu probable que le comportement 1. soit notre trajectoire actuelle, il semble très possible qu'en l'absence de mesures qui visent à transformer la manière dont fonctionne notre système, nous rencontrons une phase de déclin important et abrupte dans les 50 prochaines années.
 
-- World 3 a été mise à jour plusieurs fois, et les données historiques sont parfois en accord avec les prédictions et parfois pas - les résultats ne semble pas suffisament faux pour que l'on puisse les discalifier d'un revers de main, mais pas suffisament justes pour que l'on puisse avoir une confiance très forte dans le modèle.
+- World 3 a été mise à jour plusieurs fois, et les données historiques sont parfois en accord avec les prédictions et parfois pas - les résultats ne semblent pas suffisament faux pour que l'on puisse les discalifier d'un revers de main, mais pas suffisament justes pour que l'on puisse avoir une confiance très forte dans le modèle.
 
 
 ## Conclusion
