@@ -4,7 +4,7 @@ Status: published
 Category: climate
 Lang: fr
 
-Avant de me renseigner sur Limits to growth et World 3, je pensais que la collapsologie et la décroissance étaient des théories probablement défaitistes par choix ou malthusianistes, pas vraiment nourries par une réflexion scientifique ou rationnelle.
+Avant de me renseigner sur Limits to growth et World 3, je pensais que la collapsologie était une théorie probablement défaitiste par choix ou malthusianiste, pas vraiment nourrie par une réflexion scientifique ou rationnelle.
 
 Je ne m'étais pas vraiment posé la question des hypothèses de notre modèle de croissance économique, et je n'avais jamais réfléchi au lien entre notre monde physique fini et notre modèle de société économique qui tend augmenter de X% le PIB chaque année - comme s'il n'était pas concerné par la finitude du monde physique.
 
